@@ -36,3 +36,61 @@
     transform: rotate(360deg);
   }
 }
+
+button{
+  margin-right: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 50px;
+  width: 100px;
+  font-size: large;
+  border-radius: 10px;
+  border: none;
+}
+.clickButton{
+  width: 300px;
+}
+h1{
+  color: whitesmoke;
+  font-weight: bold;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.decrease-button{
+  background-color: salmon;
+}
+.decrease-button:hover{
+  background-color: whitesmoke;
+  color: black;
+}
+.increase-button{
+  background-color:steelblue ;
+}
+.increase-button:hover{
+  background-color: whitesmoke;
+  color: black;
+}
+.reset-button{
+  background-color: rgba(255, 60, 0, 0.898);
+}
+.reset-button:hover{
+  background-color: whitesmoke;
+  color: black;
+}
+.get-button{
+  background-color: rgba(210, 180, 140, 0.699);
+}
+.get-button:hover{
+  background-color: whitesmoke;
+  color: black;
+}
+.ans-button{
+  background-color: rgba(0, 62, 128, 0.959);
+  color: whitesmoke;
+}
+.ans-button:hover{
+  background-color: whitesmoke;
+  color: black;
+}
+.color{
+  color: rgba(255, 183, 0, 0.938);
+}
