@@ -39,6 +39,9 @@ function Trivia(props) {
             <h3 className="color">Question: {question}</h3>
             {answerIsVisible && <h3 className="color">Answer: {answer}</h3>}
             <button className="clickButton ans-button" onClick={toggleAnswerVisibility}>Click to Reveal Answer</button>
+            <p>
+                <a href="https://github.com/NadiaSultanaNS/jeopardy_game/tree/main/src">Git Repo</a>
+            </p>
         </div>
     )
 }

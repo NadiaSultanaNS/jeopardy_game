@@ -94,3 +94,9 @@ h1{
 .color{
   color: rgba(255, 183, 0, 0.938);
 }
+a{
+  color: white;
+  font-weight: bold;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
